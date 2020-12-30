@@ -176,7 +176,7 @@ nav li.menu{
 /* IPAD*/
 
 /*MOVIL*/
-@media(max-width: 400px){
+@media(max-width: 420px){
 
 
 ul {
@@ -191,24 +191,22 @@ ul {
 nav li {
 	 margin-left:25px;
 	}
-}
 #contenedor{
 	flex-direction: column;
 }
-
-
- footer{
+footer{
  	padding-bottom: 0px;
  	flex-direction: column;
  	text-align: center;
  	padding-bottom: 10px;
  	background: #414141;
  }
+ #logofooter{
+ 	padding-bottom: 10px;
+ }
 .articulos{
 	width: 100%;
 }
-
-
 }
 
 /*MOVIL*/
